@@ -1,17 +1,17 @@
-#Mixed Messages Project
+# Mixed Messages Project
 
-##Description
+## Description
 
 A Javascript program that generates random jokes when you run it.
 
-###Programs Used
+### Programs Used
 
-+Javascript
-+Node.js
-+Git
-+GitHub
++ Javascript
++ Node.js
++ Git
++ GitHub
 
-####Setup
+#### Setup
 
 $ cd foldername
 $ node script.js
