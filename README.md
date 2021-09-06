@@ -14,6 +14,6 @@ A Javascript program that generates random jokes when you run it.
 
 #### Setup
 
-cd foldername
+```cd foldername```
 
-node script.js
+```node script.js```
